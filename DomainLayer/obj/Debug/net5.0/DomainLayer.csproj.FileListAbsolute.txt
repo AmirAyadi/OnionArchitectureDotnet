@@ -1,0 +1,12 @@
+C:\Users\ama\Desktop\Onion Architecture in .Net 5\OnionArchitectureDotnet\DomainLayer\bin\Debug\net5.0\DomainLayer.deps.json
+C:\Users\ama\Desktop\Onion Architecture in .Net 5\OnionArchitectureDotnet\DomainLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\Users\ama\Desktop\Onion Architecture in .Net 5\OnionArchitectureDotnet\DomainLayer\bin\Debug\net5.0\ref\DomainLayer.dll
+C:\Users\ama\Desktop\Onion Architecture in .Net 5\OnionArchitectureDotnet\DomainLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\Users\ama\Desktop\Onion Architecture in .Net 5\OnionArchitectureDotnet\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\ama\Desktop\Onion Architecture in .Net 5\OnionArchitectureDotnet\DomainLayer\obj\Debug\net5.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ama\Desktop\Onion Architecture in .Net 5\OnionArchitectureDotnet\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\ama\Desktop\Onion Architecture in .Net 5\OnionArchitectureDotnet\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfo.cs
+C:\Users\ama\Desktop\Onion Architecture in .Net 5\OnionArchitectureDotnet\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\ama\Desktop\Onion Architecture in .Net 5\OnionArchitectureDotnet\DomainLayer\obj\Debug\net5.0\DomainLayer.dll
+C:\Users\ama\Desktop\Onion Architecture in .Net 5\OnionArchitectureDotnet\DomainLayer\obj\Debug\net5.0\ref\DomainLayer.dll
+C:\Users\ama\Desktop\Onion Architecture in .Net 5\OnionArchitectureDotnet\DomainLayer\obj\Debug\net5.0\DomainLayer.pdb

@@ -36,9 +36,11 @@ namespace DomainLayer.EntityMapper
             builder.Property(x => x.CreatedDate)  
               .HasColumnName("created_date")  
                  .HasColumnType("datetime");  
+
             builder.Property(x => x.ModifiedDate)  
               .HasColumnName("modified_date")  
                  .HasColumnType("datetime");  
+
             builder.Property(x => x.IsActive)  
               .HasColumnName("is_active")  
                  .HasColumnType("bit");  
